@@ -1,2 +1,2 @@
 # pythonstds
-Estudo de Python
+Estudos de Python
